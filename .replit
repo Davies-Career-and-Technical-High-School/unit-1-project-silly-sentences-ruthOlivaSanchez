@@ -1,2 +1,2 @@
-run = ""
+run = "python silly_sentences.py"
 language = "python3"
